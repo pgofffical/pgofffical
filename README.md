@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Pramodkumar Gavali</h1>
-- 🌱 I’m currently learning **Engineering (BE ENTC)**
+- 🌱**Engineering (BE ENTC)**
 
 - 📫 How to reach me **gawalipranav77@gmail.com**
 
